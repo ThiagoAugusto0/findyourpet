@@ -12,7 +12,7 @@ Este trabalho propõe o desenvolvimento de uma plataforma web destinada à divul
 O trabalho final tem como tema o desenvolvimento de um site para divulgação e localização de animais perdidos, oferecendo ferramentas de cadastro e interação entre usuários.
 
 ---
-##2. Escopo
+## 2. Escopo
 - O projeto terá as seguintes funcionalidades principais:
 - Cadastro de animais perdidos, incluindo fotos, descrição, último local visto e dados de contato do tutor.
 - Página de listagem com filtros por espécie, bairro, data e características do animal.
@@ -36,10 +36,12 @@ Neste trabalho **não serão considerados**:
 Foram elaborados protótipos das seguintes páginas:
 
 - Página inicial  
+- Página de Login
 - Cadastro de animal perdido  
-- Lista de animais  
-- Detalhes do animal  
-- Página de avistamentos  
+- Cadastro de usuário
+ 
+
+---
 
 Protótipos disponíveis em:  
-
+https://www.figma.com/site/aF6fcL26OQOkvPdl74f2AT/FindYourPet?node-id=0-1&t=1E28gd06GLHbEtC8-1
