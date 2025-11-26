@@ -1,0 +1,21 @@
+.frase{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: normal;
+    position:absolute;
+    top:250px;
+    left: 200px;
+    display: inline-block;
+    border-bottom: 1px solid #0ff30f; /* verde */
+    padding-bottom: 4px;   
+}
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    position:absolute;
+    top:330px;
+    left:150px;
+    right:700px
+}
